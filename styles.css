@@ -1,0 +1,59 @@
+body{
+    background-color:black;
+}
+button{
+    size: 300px;
+}
+#newDie{
+    color:red;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    text-align: center;
+    background-color: rgb(0, 4, 243);
+font-size: 30px;
+}
+
+#rollDiceyDie{
+    color: red;
+    align-self: center;
+    align-content: center;
+    text-align: center;
+    background-color: blue;
+    size: 250px;
+    font-size: 30px;
+
+}
+
+#sumOfDie{
+    color: rgb(255, 0, 0);
+    align-self: center;
+    align-content: center;
+    text-align: center;
+    background-color: blue;
+    font-size: 30px;
+    
+ 
+
+}
+
+   
+     #top-buttons{
+         text-align-last: center;
+        
+         align-items: center;
+      
+     }
+   
+
+ 
+ 
+ 
+.dice{
+    font-size: 100px;
+    
+    align-items: center;
+    text-align-last: center;
+    float: left;
+   
+}
